@@ -9,7 +9,7 @@ public interface Game {
 
     int getSmallest();
 
-    int getBiggest();
+    int getLargest();
 
     int getRemainingGuesses();
 
